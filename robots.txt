@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adehesaisystems.github.io/helpdesk-docs/sitemap.xml
